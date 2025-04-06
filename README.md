@@ -1,5 +1,4 @@
-## MAHMOUDI Mohammadmehdi 332CB
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+## MAHMOUDI Mohammadmehdi 332CB ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 # Description
 EbookReader is an open-source hardware development platform featuring an E-Paper display, environmental sensing, and low-power connectivity options. Perfect for IoT projects, information displays, and environmental monitoring applications.
