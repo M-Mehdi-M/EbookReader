@@ -86,12 +86,19 @@ The hardware design includes:
 - ESD protection on external interfaces
 - Thermal management for charging circuit
 
+
 ![Diagram Image](Images/diagram.JPG)
+
+
 ![Battery Image](Images/battery.JPG)
+
+
 ![E_paper Image](Images/e-paper.JPG)
 
-You can view the "BOM" file [here](Manufacturing/BOM.csv)
-You can view the "PICK and PLACE" file [here](Manufacturing/Pick_&_Place.csv)
+
+# You can view the "BOM" file [here](Manufacturing/BOM.csv)
+
+# You can view the "PICK and PLACE" file [here](Manufacturing/Pick_&_Place.csv)
 
 ## 📖 Resources
 - [Design & Implementation Guide](https://ocw.cs.pub.ro/courses/tsc/proiect2025)
