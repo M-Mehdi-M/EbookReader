@@ -86,6 +86,14 @@ The hardware design includes:
 - ESD protection on external interfaces
 - Thermal management for charging circuit
 
+You can view the "BOM" file [here](Manufacturing/BOM.csv)
+
+You can view the "PICK and PLACE" file [here](Manufacturing/Pick_&_Place.csv)
+
+## 📖 Resources
+- [Design & Implementation Guide](https://ocw.cs.pub.ro/courses/tsc/proiect2025)
+- [ESP32-C6 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf)
+
 
 ![Diagram Image](Images/diagram.JPG)
 
@@ -95,11 +103,3 @@ The hardware design includes:
 
 ![E_paper Image](Images/e-paper.JPG)
 
-
-You can view the "BOM" file [here](Manufacturing/BOM.csv)
-
-You can view the "PICK and PLACE" file [here](Manufacturing/Pick_&_Place.csv)
-
-## 📖 Resources
-- [Design & Implementation Guide](https://ocw.cs.pub.ro/courses/tsc/proiect2025)
-- [ESP32-C6 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf)
